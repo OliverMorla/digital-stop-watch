@@ -8,5 +8,6 @@ Digital Stop Watch made with Vanilla JavaScript.
 ![Screenshot (4)](https://user-images.githubusercontent.com/73266650/212051166-81270e70-3cfa-4f2a-8572-a9aa0054608c.png)
 
 Changelog
+
 **Version 0.1** 
 - No changes.
