@@ -7,6 +7,8 @@ Digital Stop Watch made with Vanilla JavaScript.
 # Preview
 ![Screenshot (4)](https://user-images.githubusercontent.com/73266650/212051166-81270e70-3cfa-4f2a-8572-a9aa0054608c.png)
 
+**Link:** https://rawcdn.githack.com/OliverMorla/digitalStopWatch/2922f46d501f2bd67129a1daf258d57a9a925537/index.html
+
 # Changelog
 **date format: mm/dd/yy**
 
