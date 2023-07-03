@@ -1,7 +1,7 @@
 # Digital Stop Watch
 
 <div align="center">
-  <img src="https://i.imgur.com/lxFiDyN.png](https://user-images.githubusercontent.com/73266650/212051166-81270e70-3cfa-4f2a-8572-a9aa0054608c.png" width="200px">
+  <img src="https://user-images.githubusercontent.com/73266650/212051166-81270e70-3cfa-4f2a-8572-a9aa0054608c.png" width="200px">
   <br>
   <h3>Digital Stop Watch: Your Perfect Time-Tracking Tool</h3>
 </div>
