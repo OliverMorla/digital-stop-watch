@@ -1,16 +1,55 @@
-# digitalStopWatch
+# Digital Stop Watch
 
-Digital Stop Watch made with Vanilla JavaScript.
+<div align="center">
+  <img src="[https://i.imgur.com/lxFiDyN.png](https://user-images.githubusercontent.com/73266650/212051166-81270e70-3cfa-4f2a-8572-a9aa0054608c.png)" width="200px">
+  <br>
+  <h3>Digital Stop Watch: Your Perfect Time-Tracking Tool</h3>
+</div>
 
-**A digital stopwatch** created with vanilla JavaScript is a program that uses plain JavaScript to measure elapsed time on a webpage. The stopwatch can be started, stopped, and reset by the user, and it displays the current elapsed time in a digital format on the webpage. The project utilizes JavaScript's built-in Date object to calculate and update the elapsed time. This project allows users to easily track the time spent on a specific task or activity on the webpage. The stopwatch is created using HTML, CSS and JavaScript, which allows for a custom design and formatting. Additionally, the project is created using only vanilla JavaScript, which means it doesn't require any external libraries or frameworks and can be easily integrated into any website.It's perfect for anyone who wants to measure elapsed time on a website, like for example for a sport website, education or any other case where tracking time is important. The stopwatch is lightweight and easy to use, making it perfect for beginners or those who want to quickly add a stopwatch to their webpage.
+Welcome to the `Digital Stop Watch` repository! This project is a responsive and lightweight digital stopwatch developed using HTML, CSS, and JavaScript. It provides an easy way to measure elapsed time, making it a versatile tool for sports, educational activities, or any instance where time tracking is essential. Try out the live demo [here](https://digital-stop-watch.vercel.app/).
 
-# Preview
-![Screenshot (4)](https://user-images.githubusercontent.com/73266650/212051166-81270e70-3cfa-4f2a-8572-a9aa0054608c.png)
+## Features :sparkles:
 
-**Link:** https://raw.githack.com/OliverMorla/digitalStopWatch/main/index.html
+- **Start, Stop, and Reset**: The stopwatch can be easily controlled by the user.
+- **Displays Elapsed Time**: The stopwatch shows the current elapsed time in a digital format.
+- **Lightweight**: The stopwatch is lightweight and doesn't require any external libraries or frameworks.
+- **Custom Design**: The design and formatting can be easily customized to match your website's aesthetics.
+- **Real-Time Tracking**: It uses JavaScript's built-in Date object to calculate and update the elapsed time in real-time.
 
-# Changelog
-**date format: mm/dd/yy**
+## Tech Stack :computer:
 
-**01-12-23** 
-- No changes.
+- HTML
+- CSS
+- JavaScript
+
+## Get Started :rocket:
+
+To set up the stopwatch on your local machine:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/<your-github-username>/digital-stop-watch.git
+    ```
+
+2. Navigate into the project directory:
+    ```bash
+    cd digital-stop-watch
+    ```
+
+3. Open the `index.html` file in your web browser:
+    ```bash
+    open index.html
+    ```
+
+## Contributing :handshake:
+
+Contributions and suggestions are always welcome. Feel free to fork the repository and propose changes.
+
+## Connect with Me :email:
+
+- [Portfolio](https://www.olivermorla.com)
+- [LinkedIn](https://www.linkedin.com/in/oliver-morla)
+- [Twitter](https://twitter.com/Oliver1129)
+- [Email](mailto:olivermorla3@gmail.com)
+
+Enjoy using the Digital Stop Watch? Don't forget to leave a ⭐!
